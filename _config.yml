@@ -1,0 +1,28 @@
+name: Guardian Information Services
+favicon: null
+layout_spectrum: 0.3434622623026371
+typography_spectrum: 0.20826719282194972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4837161891628057
+  lightness: 0.774191498523578
+  saturation: 0.8206692105159163
+  rhythmicContrast: 0.19912122352980077
+purpose: []
